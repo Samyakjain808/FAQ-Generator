@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.env
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Vite
+dist/
+
+# OS
+.DS_Store
